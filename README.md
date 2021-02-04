@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning AI and ML
 - 👨🏼‍💻 I have good proficiency in Web design and development and Android development 
-- 🧑‍🎓 I am a NSUer 
+- 🧑‍🎓 I am an NSUer 
 
 ### Connect with me:
 
