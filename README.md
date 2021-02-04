@@ -41,7 +41,7 @@
     <li>Scikit learn 🤩</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shofiul735&langs_count=10?hide=html,css)](https://github.com/Shofiul735/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shofiul735&langs_count=10&hide=html,css)](https://github.com/Shofiul735/)
 
 
 ## :trophy: Achievements
