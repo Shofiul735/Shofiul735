@@ -75,6 +75,6 @@
 [youtube]: https://www.youtube.com/channel/UC-xX9nLYFSRCX20wGYMqnGw
 [instagram]: https://www.instagram.com/shofiul_/
 [linkedin]: https://www.linkedin.com/in/shofiul/
-[facebook]: https://www.facebook.com/shofiul.islam.me/
+[facebook]: https://www.facebook.com/shofiul735/
 
 
