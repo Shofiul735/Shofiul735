@@ -54,7 +54,7 @@
      <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/verify/7DW8KP59Z8NT"> Mathematics for Machine Learning: Linear Algebra</a>
    </li>
    <li>
-     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/verify/PQ25MEDR9ZUU"> https://www.coursera.org/account/accomplishments/verify/PQ25MEDR9ZUU</a>
+     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/verify/PQ25MEDR9ZUU"> AI For Everyone</a>
    </li>
     <li>
      <b>Udemy Certification: </b><a href="https://www.udemy.com/certificate/UC-fa0428fc-4147-46e6-ac18-075e76e9d9d6/"> Linux Command Line Basics</a>
