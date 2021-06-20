@@ -62,6 +62,12 @@
   <li>
      <b>Udemy Certification: </b><a href="https://www.udemy.com/certificate/UC-7e9226ca-d975-471a-95a0-906a2aa97292/"> HTML, JavaScript, & Bootstrap - Certification Course</a>
    </li>
+    <li>
+     <b>ACM: </b><a href="https://drive.google.com/file/d/1AFbkvJG7cmL4o9BIie-4Hxi1swm6MzaE/view?usp=sharing"> Intra ACM Programming Contest</a>
+   </li>
+    <li>
+     <b>Udemy Certification: </b><a href="https://www.udemy.com/certificate/UC-e749d7d4-f417-48b8-ac7b-9e73da5942a2/"> React - The Complete Guide (incl Hooks, React Router, Redux)</a>
+   </li>
 </ul>
 
 
