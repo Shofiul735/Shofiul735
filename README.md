@@ -1,7 +1,8 @@
 # Hi👋, my name is Md. Shofiul Islam
 
-## I'm  a software engineer !! <img height="65px" alt="programmer" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png">
+<img alt="programmer" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png">
 
+## I'm  a Software Engineer !!
 
 - 🌱 I’m an AI and ML enthusiast
 - 👨🏼‍💻 I have good proficiency in Web design and development and Android development 
