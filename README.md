@@ -1,10 +1,11 @@
 # Hi  I'm Shofiul 👋
 
-## I'm 24 years old and I'm a Student, Developer, and Part time Teacher!!
+## I'm 25 years old and a software engineer!!
 
-- 🌱 I’m currently learning AI and ML
+- 🌱 I’m an AI and ML enthusiast
 - 👨🏼‍💻 I have good proficiency in Web design and development and Android development 
-- 🧑‍🎓 I am an NSUer 
+- 🧑‍🎓 Graduated from [North South University](http://www.northsouth.edu/)
+- 👨‍💻 Working [@BrainStation-23](https://brainstation-23.com/)
 
 ### Connect with me:
 
@@ -12,6 +13,7 @@
 [<img align="left" alt="Shofiul_linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shofiul_insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shofiul_youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[🌐](https://portfolioshofiul.web.app/)
 <br />
 
 
@@ -36,12 +38,14 @@
     <li>Sqlite3</li>
     <li>Mongodb 😍</li>
     <li>Git 🔨</li>
+    <li>GitHub</li>
     <li>Terminal 🚀</li>
     <li>Linux 🐧</li>
     <li>Scikit learn 🤩</li>
+    <li>Tensorflow 🔥</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shofiul735&langs_count=10&hide=html,css)](https://github.com/Shofiul735/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shofiul735&langs_count=10&hide=php,gherkin,xslt)](https://github.com/Shofiul735/)
 
 
 ## :trophy: Achievements
