@@ -1,4 +1,4 @@
-# Hi my name is Md. Shofiul Islam 👋
+# Hi👋, my name is Md. Shofiul Islam
 
 ## I'm  a software engineer !! <img height="65px" alt="programmer" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png">
 
