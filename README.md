@@ -2,7 +2,7 @@
 
 <img alt="programmer" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png">
 
-## I'm  a Software Engineer !!
+## I'm  a Software Engineer & CTO!!
 
 - 🌱 I’m an AI and ML enthusiast
 - 👨🏼‍💻 I have good proficiency in Web design and development and Android development 
@@ -88,5 +88,6 @@
 [instagram]: https://www.instagram.com/shofiul_/
 [linkedin]: https://www.linkedin.com/in/shofiul/
 [facebook]: https://www.facebook.com/shofiul735/
+
 
 
